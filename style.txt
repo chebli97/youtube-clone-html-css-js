@@ -1,0 +1,18 @@
+ font-family: "Roboto", sans-serif;
+ font-size: 14px;
+
+  body {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+
+Google Icons link (in the head):
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+ 
+
+	Home Icon :  <i class="material-icons">&#xe88a;</i>     HTML syntax : (&#x    ;)
